@@ -1,0 +1,16 @@
+C:\Users\portiad\source\repos\ArithmeticGeo\ArithmeticGeo\bin\Debug\net5.0\ArithmeticGeo.exe
+C:\Users\portiad\source\repos\ArithmeticGeo\ArithmeticGeo\bin\Debug\net5.0\ArithmeticGeo.deps.json
+C:\Users\portiad\source\repos\ArithmeticGeo\ArithmeticGeo\bin\Debug\net5.0\ArithmeticGeo.runtimeconfig.json
+C:\Users\portiad\source\repos\ArithmeticGeo\ArithmeticGeo\bin\Debug\net5.0\ArithmeticGeo.runtimeconfig.dev.json
+C:\Users\portiad\source\repos\ArithmeticGeo\ArithmeticGeo\bin\Debug\net5.0\ArithmeticGeo.dll
+C:\Users\portiad\source\repos\ArithmeticGeo\ArithmeticGeo\bin\Debug\net5.0\ref\ArithmeticGeo.dll
+C:\Users\portiad\source\repos\ArithmeticGeo\ArithmeticGeo\bin\Debug\net5.0\ArithmeticGeo.pdb
+C:\Users\portiad\source\repos\ArithmeticGeo\ArithmeticGeo\obj\Debug\net5.0\ArithmeticGeo.csproj.AssemblyReference.cache
+C:\Users\portiad\source\repos\ArithmeticGeo\ArithmeticGeo\obj\Debug\net5.0\ArithmeticGeo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\portiad\source\repos\ArithmeticGeo\ArithmeticGeo\obj\Debug\net5.0\ArithmeticGeo.AssemblyInfoInputs.cache
+C:\Users\portiad\source\repos\ArithmeticGeo\ArithmeticGeo\obj\Debug\net5.0\ArithmeticGeo.AssemblyInfo.cs
+C:\Users\portiad\source\repos\ArithmeticGeo\ArithmeticGeo\obj\Debug\net5.0\ArithmeticGeo.csproj.CoreCompileInputs.cache
+C:\Users\portiad\source\repos\ArithmeticGeo\ArithmeticGeo\obj\Debug\net5.0\ArithmeticGeo.dll
+C:\Users\portiad\source\repos\ArithmeticGeo\ArithmeticGeo\obj\Debug\net5.0\ref\ArithmeticGeo.dll
+C:\Users\portiad\source\repos\ArithmeticGeo\ArithmeticGeo\obj\Debug\net5.0\ArithmeticGeo.pdb
+C:\Users\portiad\source\repos\ArithmeticGeo\ArithmeticGeo\obj\Debug\net5.0\ArithmeticGeo.genruntimeconfig.cache
